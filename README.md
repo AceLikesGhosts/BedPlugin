@@ -19,8 +19,8 @@ defaultLocation: "world@0@0@0@0@0"
 # should we tp them to default location? (instead of saying no bed)
 # false = off
 # true = on
-useDefaultLocation: false```
-
+useDefaultLocation: false
+```
 
 ### licencing
 this project is licenced using the [unlicence](https://unlicence.org) licence, or therefore lack of.
