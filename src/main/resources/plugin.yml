@@ -1,0 +1,14 @@
+name: Bed
+description: Allows you to teleport to your bed.
+version: 0.0.1
+author: Unrewarding
+main: me.aceownsyou.bed.BedPlugin
+api-version: 1.13
+commands:
+  bed:
+    description: Teleports you to your bed.
+    usage: /bed [player]
+  encodeposition:
+    description: Encodes your current position.
+    permission: bedplugin.encodeposition
+    usage: /encodeposition

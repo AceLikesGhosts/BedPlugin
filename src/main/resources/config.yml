@@ -1,0 +1,8 @@
+# WORLD_NAME@X@Y@Z@YAW@PITCH
+# EX: WORLD_NAME@0@0@0@0@0 = 0 X 0 Y 0 Z 0 YAW 0 PITCH
+# EX: WORLD_NAME@255@64@255@0@0 = 255 X 64 Y 255 Z 0 YAW 0 PITCH
+defaultLocation: "world@0@0@0@0@0"
+# should we tp them to default location? (instead of saying no bed)
+# false = off
+# true = on
+useDefaultLocation: false
